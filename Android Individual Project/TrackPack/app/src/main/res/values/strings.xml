@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackPack Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">241711539509667</string>
+</resources>
